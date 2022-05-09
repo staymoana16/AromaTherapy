@@ -1,0 +1,7 @@
+.estilos{
+    text-align: center;
+}
+.alinear{
+ display: flex;
+ justify-content: center;
+}
